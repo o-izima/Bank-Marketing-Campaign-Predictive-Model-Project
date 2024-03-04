@@ -1,4 +1,4 @@
-# Bank-Marketing-Campaign-Predictive-Model-Project
+﻿# Bank-Marketing-Campaign-Predictive-Model-Project
 
 ### Overview
 This research project aims to develop predictive models using machine learning (ML) techniques to accurately identify the right set of customers for bank deposit offers. The study will evaluate and compare various ML models, including Decision Trees, Logistic Regression, Random Forests, Naïve Bayes Classifier, and eXtreme Gradient Boosting (XGBoost).
@@ -35,10 +35,12 @@ This research project aims to develop predictive models using machine learning (
 - LightGBM
 - Matplotlib
 - Seaborn
+- Plotly
+- Imbalanced-learn (for SMOTE)
 
 ### Getting Started
 1. Clone this repository to your local machine.
-2. Install the required dependencies using `pip install -r requirements.txt`.
+2. Install the required dependencies using pip install -r requirements.txt.
 3. Explore the notebooks and scripts in the repository to understand the project workflow.
 4. Execute the notebooks to reproduce the experiments and results.
 
