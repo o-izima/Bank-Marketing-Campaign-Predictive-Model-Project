@@ -40,11 +40,7 @@ This research project aims to develop predictive models using machine learning (
 
 ### Getting Started
 1. Clone this repository to your local machine.
-<<<<<<< HEAD
 2. Install the required dependencies using pip install -r requirements.txt.
-=======
-2. Install the required dependencies.
->>>>>>> 20b0aceb4d9811630f5574b1687e97f02ad4c5d5
 3. Explore the notebooks and scripts in the repository to understand the project workflow.
 4. Execute the notebooks to reproduce the experiments and results.
 
